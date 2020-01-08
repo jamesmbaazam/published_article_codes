@@ -1,0 +1,1 @@
+This folder is a placeholder for objects serialized via pandas.
