@@ -1,0 +1,11 @@
+*.o
+*.swp
+*.swo
+*.png
+*.pdf
+*.sqlite
+abc/abc_mpi
+mpi_model
+.Rproj.user
+*.Rproj
+raw_data/weather/*.csv
